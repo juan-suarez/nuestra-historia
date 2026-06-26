@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+:root {
+  /* Base */
+  --bg: #0B0B12;
+  --surface: #12121C;
+  --surface-2: #1A1A28;
+  --border: rgba(255, 255, 255, 0.07);
+
+  /* Fire — amber cálido, usado discretamente */
+  --fire: #E8703A;
+  --fire-glow: rgba(232, 112, 58, 0.15);
+  --fire-soft: #C4562A;
+
+  /* Water — azul profundo */
+  --water: #3ABACC;
+  --water-glow: rgba(58, 186, 204, 0.12);
+
+  /* Meeting point — donde se encuentran */
+  --meet: #C96B8A;
+  --meet-glow: rgba(201, 107, 138, 0.2);
+
+  /* Text */
+  --text: #F0E6D3;
+  --text-muted: #8A7F7A;
+  --text-dim: #4A4540;
+
+  /* Gold accent */
+  --gold: #C9A96E;
+  --gold-glow: rgba(201, 169, 110, 0.2);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: var(--bg);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Lato', sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+h1, h2, h3 {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.section-label {
+  font-family: 'Lato', sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}

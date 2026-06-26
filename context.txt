@@ -1,0 +1,61 @@
+CONTEXTO Y OBJETIVO DEL PROYECTO:
+Quiero crear una página web romántica y elegante para pedirle a mi pareja (Yurani) que vuelva a ser mi novia oficial y continuemos nuestra historia como compañeros de vida. Llevamos una historia de casi 4 años que comenzó en 2022, tuvimos una ruptura de un año, y llevamos varios meses juntos de nuevo. La web NO debe centrarse en la ruptura o en "volver a empezar", sino en "CONTINUAR" construyendo nuestros sueños, nuestro hogar y nuestro amor eterno. 
+
+REQUISITO TÉCNICO CRÍTICO: 
+- ENFOQUE MOBILE-FIRST OBLIGATORIO: La página web será vista exclusivamente desde un teléfono celular. Todo el diseño, tipografías, espaciados y animaciones deben estar optimizados para pantallas móviles. El scroll debe ser fluido y táctil, y los elementos deben acomodarse perfectamente en vertical sin romperse.
+
+ESTILO VISUAL Y ANIMACIÓN:
+- Estilo: Una combinación entre una "Carta Interactiva" y una "Línea de Tiempo" elegante, moderna y con efectos visuales llamativos (fades, animaciones suaves al hacer scroll, parallax o revelado de tarjetas).
+- Temática/Inspiración: La película "Elementos" (Elemental) de Disney (fuego y agua combinándose en perfecta armonía). Colores elegantes, románticos pero sofisticados.
+
+NUESTROS DATOS:
+- Él: Juan Manuel Suárez Aguirre
+- Ella: Eylin Yurani Galindo Ospina
+- Ubicación: Pereira, Colombia
+- Nuestras gatas: Nala y Roma
+
+---
+
+ESTRUCTURA DE SECCIONES Y CONTENIDO DE LA WEB:
+
+SECCIÓN 1: EL INICIO (Donde el fuego y el agua se cruzaron)
+- Diseño móvil: Pantalla completa de bienvenida (Hero section) con scroll sutil hacia abajo.
+- Texto principal: "Todo comenzó unos días antes de mi cumpleaños en el 2022. Un 'match' en Tinder nos conectó cuando vivías en Perla del Sur y todavía tenías tus crespos hermosos. No sabía que estaba conociendo a la mujer de mi vida."
+
+SECCIÓN 2: LENINGRADO Y EL COMIENZO DE TODO
+- Texto: "Nos mudamos mentalmente a Leningrado. Fue el momento de enamoramiento más intenso de mi vida. Manteníamos todo el día juntos, devorando series, películas y construyendo un mundo solo para los dos. Fue allí, después de un viaje familiar a Filandia donde me decidí por completo, que en Leningrado te propuse por primera vez que fueras mi novia."
+
+SECCIÓN 3: NUESTRA PRIMERA HIJA (Nala)
+- Diseño móvil: Tarjeta elegante centrada con espacio para foto de Nala.
+- Texto: "Tu amor infinito por los animales nos trajo a nuestra primera niña. Aunque siempre estuviste rodeada de perros, quisiste un gatito y así llegó Nala desde la fundación Cayack. Una bolita de pelos gris, asustadisa, seria, a veces un poco malgeniada, pero infinitamente amorosa. Ella se convirtió en nuestro soporte emocional y en el primer pilar de la familia que empezamos a formar."
+
+SECCIÓN 4: UN TORNADO LLAMADO ROMA
+- Diseño móvil: Tarjeta que se desliza suavemente al hacer scroll, con espacio para foto de Roma o de ambas gatas.
+- Texto: "Queríamos una compañera para Nala, y la vida nos trajo a Roma. Un completo tornado de energía, juego y amor puro. Aunque Nala estaba reacia al principio, el amor pudo más y se acoplaron rápido. Verlas juntas es vernos a nosotros: personalidades diferentes que se complementan a la perfección."
+
+SECCIÓN 5: PARTE DE TU MUNDO (El 24 de Diciembre)
+- Texto: "24 de diciembre de 2024, en aquella finca. Fue la primera vez en mi vida que pasaba una Navidad lejos de mi propia familia, pero estando al lado de la tuya me sentí completamente en casa. Me hicieron sentir uno más de ellos, y ese día entendí que nuestros mundos ya eran uno solo."
+
+SECCIÓN 6: PROMESA EN EUROPA (El agua de los deseos)
+- Elemento visual: Fondo con un sutil efecto de agua en movimiento o partículas brillantes. Espacio para carrusel móvil de fotos en Europa.
+- Texto: "Cumplimos uno de nuestros grandes sueños juntos: Europa. Caminar por España, Francia e Italia contigo fue ver los lugares más hermosos del mundo al lado de la persona más especial del universo. Jamás olvidaré cuando bebimos juntos de la Fontana de Trevi; la leyenda dice que las parejas que lo hacen estarán juntas para toda la vida. Esa promesa la sellé en tu cuello con aquel collar personalizado de Pandora, jurándote amor eterno."
+
+SECCIÓN 7: EL PRESENTE (Volver a latir)
+- Texto: "Hoy, tras haber caminado caminos separados por un tiempo, estos meses a tu lado me han devuelto la vida. He vuelto a sentir exactamente la misma intensidad, el mismo brillo y los mismos nervios que sentía en Leningrado. Me siento como un niño enamorado y, lo mejor de todo, me siento correspondido. Sentir tu confianza, verte cómoda y ver cómo en nuestros mejores momentos buscas cobijo en mi amor es mi lugar seguro en el mundo."
+
+SECCIÓN 8: NUESTRO FUTURO (Un mosaico de sueños)
+- Requisito de diseño: NO usar números, NO usar listas, NO simular un orden cronológico o paso a paso. Debe ser una cuadrícula orgánica de tarjetas (Bento Grid) o bloques asimétricos visualmente estéticos que representen nuestros deseos para el futuro, todos con el mismo nivel de importancia.
+- Contenido de los bloques/tarjetas de sueños:
+  * [Tarjeta Lograda]: "Nuestro primer carrito juntos (¡Un sueño que ya es realidad!)."
+  * [Tarjeta Casita]: "Diseñar y construir nuestra propia casita (Ya tenemos los planos, listos para el primer ladrillo)."
+  * [Tarjeta Viajes]: "Explorar el mundo: Suiza y México nos esperan."
+  * [Tarjeta Aventura]: "Viajar a Bali y cumplir el sueño de ver elefantes juntos."
+  * [Tarjeta Familia]: "Caminar hacia el altar, casarnos y seguir jugando a elegir los nombres de nuestros futuros hijos."
+
+SECCIÓN FINAL: LA PROPUESTA (Compañera de vida)
+- Diseño móvil: Una carta final centrada que ocupa la pantalla, con botones grandes y fáciles de presionar con el pulgar.
+- Mensaje: "Yurani, no quiero que empecemos de cero. Quiero que continuemos el viaje. Quiero que sigamos construyendo cada uno de los sueños que alguna vez hablamos. Quiero que seas mi compañera de vida y la mujer que voy a amar por el resto de mis días. 
+Juan Manuel Suárez Aguirre."
+- Interactividad de botones:
+  - Botón "SÍ" (Destacado y brillante): Al presionarlo, lanza confeti digital en toda la pantalla del celular, reproduce de fondo la melodía de "Elementos" y muestra un mensaje emergente: "Te amo para siempre, mi compañera de vida. Gracias por continuar este viaje conmigo. ❤️"
+  - Botón "No": Un botón juguetón que se mueve de lugar o se encoge cuando el dedo intenta presionarlo, haciendo imposible seleccionarlo.
