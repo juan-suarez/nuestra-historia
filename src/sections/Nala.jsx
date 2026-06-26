@@ -32,7 +32,7 @@ export default function Nala() {
 
       <FadeIn delay={0.2}>
         <img
-          src="/nala.JPG"
+          src={`${import.meta.env.BASE_URL}nala.JPG`}
           alt="Nala"
           className="w-full rounded-2xl mb-8 object-cover"
           style={{ aspectRatio: '3/4' }}

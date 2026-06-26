@@ -25,7 +25,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.5 }}
         >
           <img
-            src="/nosotros.JPG"
+            src={`${import.meta.env.BASE_URL}nosotros.JPG`}
             alt="Nosotros"
             className="w-full rounded-2xl object-cover"
             style={{ aspectRatio: '3/4' }}

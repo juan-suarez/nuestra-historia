@@ -32,7 +32,7 @@ export default function Leningrado() {
 
       <FadeIn delay={0.2}>
         <img
-          src="/finlandia.JPG"
+          src={`${import.meta.env.BASE_URL}finlandia.JPG`}
           alt="Filandia"
           className="w-full rounded-2xl mb-8 object-cover"
           style={{ aspectRatio: '4/3' }}

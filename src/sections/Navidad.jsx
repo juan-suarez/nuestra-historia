@@ -32,7 +32,7 @@ export default function Navidad() {
 
       <FadeIn delay={0.2}>
         <video
-          src="/familia.MOV"
+          src={`${import.meta.env.BASE_URL}familia.MOV`}
           className="w-full rounded-2xl mb-8"
           controls
           playsInline

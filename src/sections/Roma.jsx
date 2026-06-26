@@ -43,8 +43,8 @@ export default function Roma() {
         transition={{ duration: 0.8, ease: [0.25, 0.46, 0.45, 0.94] }}
         className="grid grid-cols-2 gap-3 mb-8"
       >
-        <img src="/roma.JPG" alt="Roma" className="w-full rounded-2xl object-cover" style={{ aspectRatio: '3/4' }} />
-        <img src="/RomaYNala.JPG" alt="Nala y Roma" className="w-full rounded-2xl object-cover" style={{ aspectRatio: '3/4' }} />
+        <img src={`${import.meta.env.BASE_URL}roma.JPG`} alt="Roma" className="w-full rounded-2xl object-cover" style={{ aspectRatio: '3/4' }} />
+        <img src={`${import.meta.env.BASE_URL}RomaYNala.JPG`} alt="Nala y Roma" className="w-full rounded-2xl object-cover" style={{ aspectRatio: '3/4' }} />
       </motion.div>
 
       <FadeIn delay={0.3}>

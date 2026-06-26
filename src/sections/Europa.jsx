@@ -2,11 +2,13 @@ import { useState, useRef } from 'react'
 import { motion } from 'framer-motion'
 import FadeIn from '../components/FadeIn'
 
+const BASE = import.meta.env.BASE_URL
+
 const slides = [
-  { label: 'España', src: '/espana.JPG' },
-  { label: 'Francia', src: '/francia.JPG' },
-  { label: 'Italia · Roma', src: '/italia.PNG' },
-  { label: 'Fontana di Trevi', src: '/FontanaDeTrevi.PNG' },
+  { label: 'España', src: `${BASE}espana.JPG` },
+  { label: 'Francia', src: `${BASE}francia.JPG` },
+  { label: 'Italia · Roma', src: `${BASE}italia.PNG` },
+  { label: 'Fontana di Trevi', src: `${BASE}FontanaDeTrevi.PNG` },
 ]
 
 export default function Europa() {

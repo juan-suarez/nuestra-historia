@@ -32,7 +32,7 @@ export default function Presente() {
 
       <FadeIn delay={0.2}>
         <img
-          src="/presente.JPG"
+          src={`${import.meta.env.BASE_URL}presente.JPG`}
           alt="Nosotros hoy"
           className="w-full rounded-2xl mb-8 object-cover"
           style={{ aspectRatio: '4/3' }}
